@@ -1,0 +1,61 @@
+toggleEffectsStatus = true
+colorMode = "text.autoconfig.simplehudenhanced.option.colorMode.EFFECT_COLOR"
+toggleMovementStatus = false
+toggleEquipmentStatus = false
+
+[uiConfig]
+toggleSimpleHUDEnhanced = true
+textColor = 16777215
+
+[statusElements]
+Xcords = 0
+Ycords = 0
+toggleLightLevel = false
+toggleBiome = true
+togglePlayerName = false
+togglePing = false
+toggleServerName = false
+toggleServerAddress = false
+
+[statusElements.coordinates]
+toggleCoordinates = true
+toggleDirection = true
+toggleOffset = true
+toggleNetherCoordinateConversion = false
+
+[statusElements.fps]
+toggleFPS = true
+toggleColourFPS = false
+
+[statusElements.playerSpeed]
+togglePlayerSpeed = true
+togglePlayerVerticalSpeed = false
+
+[statusElements.gameTime]
+toggleGameTime = true
+toggleGameTime24Hour = false
+
+[statusElements.systemTime]
+toggleSystemTime = true
+toggleSystemTime24Hour = false
+
+[effectsStatus]
+backgroundColor = -2147483648
+beneficialForegroundColor = -2130706433
+harmfulForegroundColor = -2130706433
+neutralForegroundColor = -2130706433
+
+[movementStatus]
+toggleSprintStatus = true
+toggleSneakStatus = true
+toggleFlyingStatus = true
+toggleSwimmingStatus = true
+movementStatusLocationX = 0
+movementStatusLocationY = 90
+
+[equipmentStatus]
+showCount = true
+showDurability = true
+showNonTools = true
+equipmentStatusLocationX = 0
+equipmentStatusLocationY = 60
