@@ -1,11 +1,11 @@
-# Optimized Survival
+# Improved Survival
 ![Based on Fabulously Optimized](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/built-with/fabulously-optimized_64h.png?raw=true) ![Available for Fabric](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/supported/fabric_64h.png)
 
 Support my work on [Buy Me a Coffee!](https://www.buymeacoffee.com/pyrotonic)
 
 ------------------------
 
-Optimized Survival is a modpack that aims to improve the survival experience in areas that vanilla Minecraft struggles in.
+Improved Survival is a modpack that aims to improve the survival experience in areas that vanilla Minecraft struggles in.
 
 As of now, there are 4 categories that this 
 modpack works in:
@@ -22,7 +22,7 @@ The mods [Enchant Tweaker](https://modrinth.com/mod/enchant-tweaker) and [Enchan
 
 ### World Generation
 
-In Optimized Survival, there are a few mods that change the world generation that will feel more fresh than the vanilla generation.
+In Improved Survival, there are a few mods that change the world generation that will feel more fresh than the vanilla generation.
 
 #### Overworld
 
