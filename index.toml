@@ -1081,6 +1081,10 @@ file = "mods/yosbr-0.1.2.jar"
 hash = "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb"
 
 [[files]]
+file = "options.txt"
+hash = "a3c41249b56f0682b45f4daf75173882e8b99c31948d3d53d5451d8c04b700b6"
+
+[[files]]
 file = "profile.json"
 hash = "d99e0720f81e2b6fea166564da84e031d34259124a4776bdd54dace7164d6a62"
 
@@ -1103,3 +1107,8 @@ hash = "29470cf15c7b6551c6859b06957f7fcfe2420abd2491b995f0bc2a4864cf17dc"
 [[files]]
 file = "resourcepacks/SodiumTranslations.zip"
 hash = "4870fd0ccc4225587c32e036c19eaa39eff6364dd88b84634aa8e77099b24615"
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
+metafile = true
