@@ -6,7 +6,7 @@
     "niceMusic": true,
     "downMusic": true,
     "endMusic": true,
-    "endBossMusic": false
+    "endBossMusic": true
   },
   "dynamicPitch": {
     "activated": true,
