@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["spoornpacks","vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/FreshAnimations_v1.8.1.zip","file/Fast Better Grass.zip"]
+resourcePacks:["spoornpacks","vanilla","fabric","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.8.1.zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Fast Better Grass.zip"]
 incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip"]
 lastServer:
 lang:en_us
@@ -77,7 +77,7 @@ skipRealms32bitWarning:false
 hideMatchedNames:true
 joinedFirstServer:true
 hideBundleTutorial:false
-syncChunkWrites:false
+syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
 onlyShowSecureChat:false
